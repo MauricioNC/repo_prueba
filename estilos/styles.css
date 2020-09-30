@@ -9,3 +9,8 @@ header
 {
 	background: #1AB7B5;
 }
+
+header .menu ul li
+{
+	display: inline-block;
+}
